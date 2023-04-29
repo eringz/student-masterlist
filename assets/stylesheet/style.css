@@ -1,0 +1,55 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+    h1{
+        margin: 20px 0 0 20px;
+    }
+    form{
+        display: inline-block;
+        padding: 20px;
+        margin: 20px;
+        width: 300px;
+    }
+        label{
+            display: inline-block;
+            margin: 0 5px 0 0;
+            width: 100px;
+        }
+        input{
+            margin: 10px auto;
+            width: 170px;
+        }
+        select{
+            width: 180px;
+        }
+        p{
+            margin: 0;
+        }
+        #male, #female{
+            width: 10px;
+        }
+        #male{
+            margin-left: 120px;
+        }
+        #submit{
+            display: block;
+            background-color: blue;
+            border: none;
+            border-radius: 3px;
+            color: white;
+            padding: 2px 20px;
+            margin-left: 210px;
+            width: 80px;
+            text-align: center;
+        }
+        h2, table{
+            margin: 20px;
+        }
+        table{
+            border-collapse: collapse;
+        }
+            th, td{
+                border: 1px solid black;
+                padding: 10px;
+            }
+    
